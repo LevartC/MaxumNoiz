@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<MusicData version="1">
+
+ <Music id="1001"	title="Leakage Voltage"		maker="Doin"  	bpm="180"  ez="4" nm="6" hd="8" omp="001_01"
+	jam="001_01" 	mp3="001_01"	png="001_01" 	mpng="001_01m"		bga="001_01"	prev="001_01p" 
+	sort="003"	pay="1"		cost="2000" lock="0" />
+
+ <Music id="1002"   	title="Removable Disk0"		maker="Doin"  	bpm="130"  ez="3" nm="5" hd="6" omp="002_01"
+	jam="002_01" 	mp3="002_01"	png="002_01" 	mpng="002_01m"		bga="002_01"	prev="002_01p" 
+	sort="002"	pay="1"		cost="2000" lock="0" />
+
+ <Music id="1003"   	title="Tepris"			maker="Doin"  	bpm="145"  ez="2" nm="4" hd="6" omp="003_01"
+	jam="003_01" 	mp3="003_01"	png="003_01" 	mpng="003_01m"		bga="003_01"	prev="003_01p" 
+	sort="001"	pay="1"		cost="2000" lock="0" />
+
+ <Music id="1004"   	title="Confession Of Love"	maker="Memme"  	bpm="145"  ez="2" nm="4" hd="6" omp="004_01"
+	jam="004_01" 	mp3="004_01"	png="004_01" 	mpng="004_01m"		bga="004_01"	prev="004_01p" 
+	sort="004"	pay="1"		cost="2000" lock="1" />
+
+ <Music id="1005"   	title="Luv Luv Melody"		maker="FE"  	bpm="145"  ez="2" nm="4" hd="6" omp="005_01"
+	jam="005_01" 	mp3="005_01"	png="005_01" 	mpng="005_01m"		bga="005_01"	prev="005_01p" 
+	sort="005"	pay="1"		cost="2000" lock="1" />
+
+ <Music id="1006"   	title="U-NIVUS"			maker="ESTi"  	bpm="145"  ez="2" nm="4" hd="6" omp="006_01"
+	jam="006_01" 	mp3="006_01"	png="006_01" 	mpng="006_01m"		bga="006_01"	prev="006_01p" 
+	sort="006"	pay="1"		cost="2000" lock="1" />
+
+ <Music id="1007"   	title="The Queen"		maker="M2U"  	bpm="145"  ez="2" nm="4" hd="6" omp="007_01"
+	jam="007_01" 	mp3="007_01"	png="007_01" 	mpng="007_01m"		bga="007_01"	prev="007_01p" 
+	sort="007"	pay="1"		cost="2000" lock="1" />
+
+ <Music id="1008"   	title="Loop"			maker="Cuve"  	bpm="145"  ez="2" nm="4" hd="6" omp="008_01"
+	jam="008_01" 	mp3="008_01"	png="008_01" 	mpng="008_01m"		bga="008_01"	prev="008_01p" 
+	sort="008"	pay="1"		cost="2000" lock="1" />
+
+
+</MusicData>
+      

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<GlobalData version="1">
+  
+  <TitleData>
+    <Title video_name="bg_title.mov" />
+  </TitleData>
+  
+  <ModeData>
+    <Mode id="0" name="Lite" video_name="bg_lite.mov" />
+    <Mode id="1" name="Regular" video_name="bg_regul.mov" />
+    <Mode id="2" name="Mixset" video_name="bg_mixset.mov" />
+    <Mode id="3" name="Setting" video_name="bg_sett.mov" />
+  </ModeData>
+  
+  <InfoData>
+    <SoundInfo bgm_title="Sound/bgm1" bgm_outgame="Sound/bgm2" button="Sound/btn"
+               start_button="Sound/start" start_deny="Sound/start_deny"
+               item_select="Sound/item_sel" item_deselect="Sound/item_desel" />
+    <PathInfo music="XML/Music_Data" judge="XML/Judge_Data"
+              song="SongInfo" mp3="MP3" png="PNG" mpng="MPNG"
+              jam="JAM" bga="BGA" omp="OMP" prev="Prev" />
+  </InfoData>
+
+  <GameData>
+    <NoteInfo coming_sec="3" user_delay="0.2" />
+    <DisplayInfo anim_scale="0.3" anim_time="0.2" wait_time="0.2" fadeout_time="0.6"
+                 min_combo="4" min_digit="3" />
+  </GameData>
+  
+</GlobalData>
+      

@@ -1,0 +1,7 @@
+[
+{"idx":"100","judge_name":"perfect","hp":"1","hpvalue":"1","term":"0.03","score":"200"},
+{"idx":"101","judge_name":"great","hp":"1","hpvalue":"0.5","term":"0.045","score":"130"},
+{"idx":"102","judge_name":"good","hp":"0","hpvalue":"0","term":"0.06","score":"50"},
+{"idx":"104","judge_name":"miss","hp":"2","hpvalue":"12","term":"0.3","score":"00"},
+{"idx":"105","judge_name":"long_perfect","hp":"1","hpvalue":"0.3","term":"00","score":"70"}
+]
